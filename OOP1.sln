@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{D38999AE-9BB9-468E-BC82-A891FDEE8B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{D38999AE-9BB9-468E-BC82-A891FDEE8B3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{E02DFE23-CDC2-483C-9EC0-5439AB45E70B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{E02DFE23-CDC2-483C-9EC0-5439AB45E70B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{81D228D6-115E-42C0-A132-49F21AF26636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{81D228D6-115E-42C0-A132-49F21AF26636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{D641B964-E92D-44E7-8AC1-56D1D5C9CD1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{81D228D6-115E-42C0-A132-49F21AF26636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81D228D6-115E-42C0-A132-49F21AF26636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81D228D6-115E-42C0-A132-49F21AF26636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D641B964-E92D-44E7-8AC1-56D1D5C9CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D641B964-E92D-44E7-8AC1-56D1D5C9CD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D641B964-E92D-44E7-8AC1-56D1D5C9CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D641B964-E92D-44E7-8AC1-56D1D5C9CD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
