@@ -13,6 +13,12 @@ namespace GenericsIntro
             isimler.Add("Kerem");
             Console.WriteLine(isimler.Length);
 
+
+
+
+
+
+
             foreach (var item in isimler.Items)
             {
                 Console.WriteLine(item);
