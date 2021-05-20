@@ -20,7 +20,7 @@ namespace Collections
 
             // Kısaca koleksiyonlarda Dizilerdeki gibi verileri kaybetmez.
 
-
+            //deneme yazısı 
 
             List<String> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
 
