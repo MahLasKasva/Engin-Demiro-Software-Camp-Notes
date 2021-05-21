@@ -36,7 +36,7 @@ namespace ReferenceTypes
 
             Console.WriteLine(sayilar1[0]); //500
 
-
+            Console.WriteLine("**************************************************");
 
             Person person1 = new Person();
             Person person2 = new Person();
@@ -55,7 +55,23 @@ namespace ReferenceTypes
 
             Person person3 = customer;
 
+
             customer.FirstName = "Ahmet";
+
+            // burdaki mantık ise şimdi benim bir classım var Person ve bu hepsinin base clası olarak yaptık yani şöyle düşünelim person classı diğer class ların babası gibi düşünülim böyle olunca ben PersonManager da Add 
+            //methodu yazdım buna parametre olarakda person verdim. Bu durumda ben person verdiğim için onun çoçuklarıda bundan faydalanıp gelebiliyor.
+            // sonra bu yöntem ileride örneğin bi proje yazıyoruz birsürü farklı veri tutma yerleri var sql,oracle ,mysql vb. bu durumu burda yaptığını düşün müşterilerin verilerini farklı yerlerde tutmak isterse zorlanmadan
+            // ufak bi değişiklikle iş biter.
+            //sonra insert,update,delete ve getall gibi yöntemler içinde olur bütün kolonlarıca classlarına ayrı ayrı add update delete yazmaktansa bu şekilde yaparak tek işte çözebilirsin, hem ileride sıkıntı da yaşarsan sadece 1
+            //yerde kodunu değiştirirsin bütün hepsinde tek tek değiştirmene gerek yok
+
+
+
+            PersonManager personManager = new PersonManager();
+            personManager.Add(person1);
+            personManager.Add(customer);
+            personManager.Add(employee);
+
         }
 
         class Person
@@ -74,6 +90,14 @@ namespace ReferenceTypes
         class Employee : Person
         {
             public int EmployeeNumber { get; set; }
+        }
+
+        class PersonManager
+        {
+            public void Add(Person person)
+            {
+                Console.WriteLine(person.FirstName);
+            }
         }
     }
 }
