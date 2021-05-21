@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.exe
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\ref\OOP3.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\bin\Debug\net5.0\OOP3.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\ref\OOP3.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\OOP3\obj\Debug\net5.0\OOP3.genruntimeconfig.cache
