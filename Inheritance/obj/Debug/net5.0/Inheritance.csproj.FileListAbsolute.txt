@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

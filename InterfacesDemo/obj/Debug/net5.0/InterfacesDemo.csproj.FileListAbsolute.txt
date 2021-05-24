@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.exe
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\ref\InterfacesDemo.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\ref\InterfacesDemo.dll
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.pdb
+C:\Users\HP\source\repos\ConsoleApp1\OOP1\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.genruntimeconfig.cache
