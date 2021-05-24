@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YdoPHY0iC7ncO8ULcE3PncdOYCsDj3WVSTdM4q1RUho8VD/d82R2lMwKG3qjSA9OvO9h19iKSKXlaSVN+b5TnQ==",
+  "dgSpecHash": "zABskoGwOb4f8vxCjEc8JEGKaOyKaLtQ76/w4n6UPho9mSlevqjTCtV8lKjOsQEina4uzAAO2fCSSXwiLyQAaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

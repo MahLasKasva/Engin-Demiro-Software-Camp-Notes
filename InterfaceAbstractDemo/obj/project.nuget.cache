@@ -1,19 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lL4JzutL/cUsQrp6sAYJJxjSqfnIMoqUn92a8CaQcwet00sgyQ4ODgrE1xopNxFlJAEdftOO5k2o1/zxfWIvXA==",
+  "dgSpecHash": "RgnJtZPG9k7I+NcVnU9L6+hQUaHdmcFsgyPq5JJ72QsW/8liOr6vsBj5pM8ffjRQE1Y4bwGInMbuv04RLhq3ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\grpc.aspnetcore.server\\2.32.0\\grpc.aspnetcore.server.2.32.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\grpc.net.common\\2.32.0\\grpc.net.common.2.32.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

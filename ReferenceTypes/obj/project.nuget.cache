@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTCArTIgkPueX0WaQPgYesYqEqBVkq5yiK+AdawvkYoU/PC21TOcXGtLHHocA3/GkAzgSYRyIwq4eQ5Cg4k9TQ==",
+  "dgSpecHash": "fqIMnRxoTeD+sM9OVXXg7gtzsKpnWau0Tw1Aw9tQhkS9olDXdiyDdINc5wtrXhOs/+qqg4jZ6T36QLt+Nd7fYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\ReferenceTypes\\ReferenceTypes.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\ReferenceTypes\\ReferenceTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

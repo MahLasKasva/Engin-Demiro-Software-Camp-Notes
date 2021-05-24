@@ -6,7 +6,7 @@ namespace InterfaceAbstractDemo.Abstract
     {
         public virtual void Save(Customer customer)
         {
-            Console.WriteLine("Saved to db : " + customer.FirstName+" "+customer.LastName);
+            Console.WriteLine("Saved to db : " + customer.FirstName + " " + customer.LastName);
         }
     }
 }

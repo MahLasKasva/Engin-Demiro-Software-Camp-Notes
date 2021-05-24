@@ -1,5 +1,5 @@
-﻿using System.Threading.Tasks;
-using InterfaceAbstractDemo.Abstract;
+﻿using InterfaceAbstractDemo.Abstract;
+using System.Threading.Tasks;
 
 namespace InterfaceAbstractDemo.Concrete
 {

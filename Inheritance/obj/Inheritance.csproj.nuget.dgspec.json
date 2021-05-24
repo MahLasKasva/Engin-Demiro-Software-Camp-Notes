@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\OOP\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\HP\\source\\repos\\OOP\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\OOP\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Inheritance\\Inheritance.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\OOP\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

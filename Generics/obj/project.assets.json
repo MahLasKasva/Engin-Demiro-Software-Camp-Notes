@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Generics\\Generics.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\OOP\\Generics\\Generics.csproj",
       "projectName": "Generics",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Generics\\Generics.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\Generics\\Generics.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Generics\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\OOP\\Generics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

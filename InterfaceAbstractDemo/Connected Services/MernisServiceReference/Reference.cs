@@ -7,62 +7,61 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+
 namespace MernisServiceReference
 {
-    
-    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
-    [System.ServiceModel.ServiceContractAttribute(Namespace="http://tckimlik.nvi.gov.tr/WS", ConfigurationName="MernisServiceReference.KPSPublicSoap")]
+    [System.ServiceModel.ServiceContractAttribute(Namespace = "http://tckimlik.nvi.gov.tr/WS", ConfigurationName = "MernisServiceReference.KPSPublicSoap")]
     public interface KPSPublicSoap
     {
-        
-        [System.ServiceModel.OperationContractAttribute(Action="http://tckimlik.nvi.gov.tr/WS/TCKimlikNoDogrula", ReplyAction="*")]
+
+        [System.ServiceModel.OperationContractAttribute(Action = "http://tckimlik.nvi.gov.tr/WS/TCKimlikNoDogrula", ReplyAction = "*")]
         System.Threading.Tasks.Task<MernisServiceReference.TCKimlikNoDogrulaResponse> TCKimlikNoDogrulaAsync(MernisServiceReference.TCKimlikNoDogrulaRequest request);
     }
-    
+
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped = false)]
     public partial class TCKimlikNoDogrulaRequest
     {
-        
-        [System.ServiceModel.MessageBodyMemberAttribute(Name="TCKimlikNoDogrula", Namespace="http://tckimlik.nvi.gov.tr/WS", Order=0)]
+
+        [System.ServiceModel.MessageBodyMemberAttribute(Name = "TCKimlikNoDogrula", Namespace = "http://tckimlik.nvi.gov.tr/WS", Order = 0)]
         public MernisServiceReference.TCKimlikNoDogrulaRequestBody Body;
-        
+
         public TCKimlikNoDogrulaRequest()
         {
         }
-        
+
         public TCKimlikNoDogrulaRequest(MernisServiceReference.TCKimlikNoDogrulaRequestBody Body)
         {
             this.Body = Body;
         }
     }
-    
+
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tckimlik.nvi.gov.tr/WS")]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace = "http://tckimlik.nvi.gov.tr/WS")]
     public partial class TCKimlikNoDogrulaRequestBody
     {
-        
-        [System.Runtime.Serialization.DataMemberAttribute(Order=0)]
+
+        [System.Runtime.Serialization.DataMemberAttribute(Order = 0)]
         public long TCKimlikNo;
-        
-        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=1)]
+
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue = false, Order = 1)]
         public string Ad;
-        
-        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=2)]
+
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue = false, Order = 2)]
         public string Soyad;
-        
-        [System.Runtime.Serialization.DataMemberAttribute(Order=3)]
+
+        [System.Runtime.Serialization.DataMemberAttribute(Order = 3)]
         public int DogumYili;
-        
+
         public TCKimlikNoDogrulaRequestBody()
         {
         }
-        
+
         public TCKimlikNoDogrulaRequestBody(long TCKimlikNo, string Ad, string Soyad, int DogumYili)
         {
             this.TCKimlikNo = TCKimlikNo;
@@ -71,96 +70,96 @@ namespace MernisServiceReference
             this.DogumYili = DogumYili;
         }
     }
-    
+
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped = false)]
     public partial class TCKimlikNoDogrulaResponse
     {
-        
-        [System.ServiceModel.MessageBodyMemberAttribute(Name="TCKimlikNoDogrulaResponse", Namespace="http://tckimlik.nvi.gov.tr/WS", Order=0)]
+
+        [System.ServiceModel.MessageBodyMemberAttribute(Name = "TCKimlikNoDogrulaResponse", Namespace = "http://tckimlik.nvi.gov.tr/WS", Order = 0)]
         public MernisServiceReference.TCKimlikNoDogrulaResponseBody Body;
-        
+
         public TCKimlikNoDogrulaResponse()
         {
         }
-        
+
         public TCKimlikNoDogrulaResponse(MernisServiceReference.TCKimlikNoDogrulaResponseBody Body)
         {
             this.Body = Body;
         }
     }
-    
+
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
-    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tckimlik.nvi.gov.tr/WS")]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace = "http://tckimlik.nvi.gov.tr/WS")]
     public partial class TCKimlikNoDogrulaResponseBody
     {
-        
-        [System.Runtime.Serialization.DataMemberAttribute(Order=0)]
+
+        [System.Runtime.Serialization.DataMemberAttribute(Order = 0)]
         public bool TCKimlikNoDogrulaResult;
-        
+
         public TCKimlikNoDogrulaResponseBody()
         {
         }
-        
+
         public TCKimlikNoDogrulaResponseBody(bool TCKimlikNoDogrulaResult)
         {
             this.TCKimlikNoDogrulaResult = TCKimlikNoDogrulaResult;
         }
     }
-    
+
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     public interface KPSPublicSoapChannel : MernisServiceReference.KPSPublicSoap, System.ServiceModel.IClientChannel
     {
     }
-    
+
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     public partial class KPSPublicSoapClient : System.ServiceModel.ClientBase<MernisServiceReference.KPSPublicSoap>, MernisServiceReference.KPSPublicSoap
     {
-        
+
         /// <summary>
         /// Implement this partial method to configure the service endpoint.
         /// </summary>
         /// <param name="serviceEndpoint">The endpoint to configure</param>
         /// <param name="clientCredentials">The client credentials</param>
         static partial void ConfigureEndpoint(System.ServiceModel.Description.ServiceEndpoint serviceEndpoint, System.ServiceModel.Description.ClientCredentials clientCredentials);
-        
-        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration) : 
+
+        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration) :
                 base(KPSPublicSoapClient.GetBindingForEndpoint(endpointConfiguration), KPSPublicSoapClient.GetEndpointAddress(endpointConfiguration))
         {
             this.Endpoint.Name = endpointConfiguration.ToString();
             ConfigureEndpoint(this.Endpoint, this.ClientCredentials);
         }
-        
-        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration, string remoteAddress) : 
+
+        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration, string remoteAddress) :
                 base(KPSPublicSoapClient.GetBindingForEndpoint(endpointConfiguration), new System.ServiceModel.EndpointAddress(remoteAddress))
         {
             this.Endpoint.Name = endpointConfiguration.ToString();
             ConfigureEndpoint(this.Endpoint, this.ClientCredentials);
         }
-        
-        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration, System.ServiceModel.EndpointAddress remoteAddress) : 
+
+        public KPSPublicSoapClient(EndpointConfiguration endpointConfiguration, System.ServiceModel.EndpointAddress remoteAddress) :
                 base(KPSPublicSoapClient.GetBindingForEndpoint(endpointConfiguration), remoteAddress)
         {
             this.Endpoint.Name = endpointConfiguration.ToString();
             ConfigureEndpoint(this.Endpoint, this.ClientCredentials);
         }
-        
-        public KPSPublicSoapClient(System.ServiceModel.Channels.Binding binding, System.ServiceModel.EndpointAddress remoteAddress) : 
+
+        public KPSPublicSoapClient(System.ServiceModel.Channels.Binding binding, System.ServiceModel.EndpointAddress remoteAddress) :
                 base(binding, remoteAddress)
         {
         }
-        
+
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
         System.Threading.Tasks.Task<MernisServiceReference.TCKimlikNoDogrulaResponse> MernisServiceReference.KPSPublicSoap.TCKimlikNoDogrulaAsync(MernisServiceReference.TCKimlikNoDogrulaRequest request)
         {
             return base.Channel.TCKimlikNoDogrulaAsync(request);
         }
-        
+
         public System.Threading.Tasks.Task<MernisServiceReference.TCKimlikNoDogrulaResponse> TCKimlikNoDogrulaAsync(long TCKimlikNo, string Ad, string Soyad, int DogumYili)
         {
             MernisServiceReference.TCKimlikNoDogrulaRequest inValue = new MernisServiceReference.TCKimlikNoDogrulaRequest();
@@ -171,17 +170,17 @@ namespace MernisServiceReference
             inValue.Body.DogumYili = DogumYili;
             return ((MernisServiceReference.KPSPublicSoap)(this)).TCKimlikNoDogrulaAsync(inValue);
         }
-        
+
         public virtual System.Threading.Tasks.Task OpenAsync()
         {
             return System.Threading.Tasks.Task.Factory.FromAsync(((System.ServiceModel.ICommunicationObject)(this)).BeginOpen(null, null), new System.Action<System.IAsyncResult>(((System.ServiceModel.ICommunicationObject)(this)).EndOpen));
         }
-        
+
         public virtual System.Threading.Tasks.Task CloseAsync()
         {
             return System.Threading.Tasks.Task.Factory.FromAsync(((System.ServiceModel.ICommunicationObject)(this)).BeginClose(null, null), new System.Action<System.IAsyncResult>(((System.ServiceModel.ICommunicationObject)(this)).EndClose));
         }
-        
+
         private static System.ServiceModel.Channels.Binding GetBindingForEndpoint(EndpointConfiguration endpointConfiguration)
         {
             if ((endpointConfiguration == EndpointConfiguration.KPSPublicSoap))
@@ -209,7 +208,7 @@ namespace MernisServiceReference
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
         }
-        
+
         private static System.ServiceModel.EndpointAddress GetEndpointAddress(EndpointConfiguration endpointConfiguration)
         {
             if ((endpointConfiguration == EndpointConfiguration.KPSPublicSoap))
@@ -222,12 +221,12 @@ namespace MernisServiceReference
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
         }
-        
+
         public enum EndpointConfiguration
         {
-            
+
             KPSPublicSoap,
-            
+
             KPSPublicSoap12,
         }
     }

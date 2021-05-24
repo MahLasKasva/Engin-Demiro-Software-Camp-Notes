@@ -1,9 +1,9 @@
-﻿using System;
-using InterfaceAbstractDemo.Abstract;
+﻿using InterfaceAbstractDemo.Abstract;
+using System;
 
 namespace InterfaceAbstractDemo
 {
-    public class Customer :IEntity
+    public class Customer : IEntity
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

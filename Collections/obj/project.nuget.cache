@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9doZcql539nWqrS1+By/iSrkrI+CFc2uet+c+yDKr++WUXMgPnz6sCiZG5C6eI41dBTifD2wB9aOi2OalRrsWw==",
+  "dgSpecHash": "JdzYmEkAmEwNGkE6GBSQC9waAIVvilrPU5Nu3QVLZ9492X/mBGUCs5eR4KcPNhcxFN9pFcNHDRd5KcyJRFddGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Collections\\Collections.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\OOP\\Collections\\Collections.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

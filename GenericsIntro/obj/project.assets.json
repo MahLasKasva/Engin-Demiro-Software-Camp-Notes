@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\OOP\\GenericsIntro\\GenericsIntro.csproj",
       "projectName": "GenericsIntro",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\GenericsIntro\\GenericsIntro.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\GenericsIntro\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\OOP\\GenericsIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,8 +60,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Collections\\Collections.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\ConsoleApp1\\OOP1\\Collections\\Collections.csproj"
+            "C:\\Users\\HP\\source\\repos\\OOP\\Collections\\Collections.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\OOP\\Collections\\Collections.csproj"
             }
           }
         }
