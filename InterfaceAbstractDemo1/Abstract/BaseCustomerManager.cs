@@ -14,5 +14,7 @@ namespace InterfaceAbstractDemo.Abstract
             Console.WriteLine("Saved to db : " + customer.FirstName);
 
         }
+
+
     }
 }

@@ -17,7 +17,7 @@ namespace InterfaceAbstractDemo
                 DateOfBirth = new DateTime(1999, 11, 23),
                 FirstName = "Recep",
                 LastName = "Pazarlı",
-                NationalityId = "22450529986"
+                NationalityId = "12345678911"
 
             });
             Console.ReadLine();
